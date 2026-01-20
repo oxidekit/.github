@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://docs.oxidekit.com
+    about: Check the documentation for answers to common questions.
+  - name: Discussions
+    url: https://github.com/oxidekit/oxidekit-core/discussions
+    about: Ask questions and discuss with the community.
