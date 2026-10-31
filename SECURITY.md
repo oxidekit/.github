@@ -11,9 +11,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: security@oxidekit.com
-
-You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
+Instead, please report them privately through [GitHub](https://github.com/oxidekit/oxidepm/security/advisories/new).
 
 Please include the following information:
 

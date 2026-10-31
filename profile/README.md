@@ -1,37 +1,12 @@
-# OxideKit
+# OxidePM
 
-**Build native desktop applications with Rust. No browser, no JavaScript, no bundlers.**
-
-OxideKit is a Rust-native application platform that replaces Electron, Tauri, and traditional web stacks. GPU-accelerated rendering, state-preserving hot reload, and a permission system that enterprises can actually verify.
+An open-source process manager, written in Rust. It keeps your apps running: it starts them, restarts them when they crash, captures their logs and brings them back after a reboot.
 
 ## Repositories
 
 | Repository | Description |
 |------------|-------------|
-| [oxidekit-core](https://github.com/oxidekit/oxidekit-core) | Runtime, compiler, and CLI |
-| [oxidekit-extensions](https://github.com/oxidekit/oxidekit-extensions) | Official plugins |
-| [oxidekit-themes](https://github.com/oxidekit/oxidekit-themes) | Theme collection |
-| [oxidekit-docs](https://github.com/oxidekit/oxidekit-docs) | Documentation site |
-| [oxidekit-site](https://github.com/oxidekit/oxidekit-site) | oxidekit.com |
-| [vscode-oxidekit](https://github.com/oxidekit/vscode-oxidekit) | VS Code extension |
-
-## Quick Start
-
-```bash
-# Install
-cargo install oxide-cli
-
-# Create a new app
-oxide new my-app --starter admin-panel
-
-# Run with hot reload
-oxide dev
-
-# Build for production
-oxide build --release
-```
-
-## Links
-
-- [Documentation](https://docs.oxidekit.com)
-- [Website](https://oxidekit.com)
+| [oxidepm](https://github.com/oxidekit/oxidepm) | The daemon and the command line tool |
+| [oxidepm-adapters](https://github.com/oxidekit/oxidepm-adapters) | Optional adapters that add features to OxidePM |
+| [oxidepm-vscode](https://github.com/oxidekit/oxidepm-vscode) | VS Code extension |
+| [homebrew-tap](https://github.com/oxidekit/homebrew-tap) | Homebrew formula |

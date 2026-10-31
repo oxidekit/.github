@@ -1,11 +1,11 @@
-# Contributing to OxideKit
+# Contributing to OxidePM
 
-Thank you for your interest in contributing to OxideKit!
+Thank you for your interest in contributing to OxidePM!
 
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/oxidekit-core.git`
+2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/oxidepm.git`
 3. Create a branch: `git checkout -b feature/my-feature`
 4. Make your changes
 5. Run tests: `cargo test --workspace`
@@ -20,8 +20,8 @@ Thank you for your interest in contributing to OxideKit!
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Clone the repository
-git clone https://github.com/oxidekit/oxidekit-core.git
-cd oxidekit-core
+git clone https://github.com/oxidekit/oxidepm.git
+cd oxidepm
 
 # Build
 cargo build --workspace
@@ -29,9 +29,6 @@ cargo build --workspace
 # Run tests
 cargo test --workspace
 
-# Run a demo app
-cd examples/hello-world
-cargo run
 ```
 
 ## Code Style
@@ -52,4 +49,4 @@ cargo run
 
 ## Questions?
 
-Feel free to open a [Discussion](https://github.com/oxidekit/oxidekit-core/discussions) for questions or ideas.
+Feel free to open an [issue](https://github.com/oxidekit/oxidepm/issues) for questions or ideas.

@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug to help us improve OxideKit
+about: Report a bug to help us improve OxidePM
 title: ''
 labels: bug
 assignees: ''
@@ -23,7 +23,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Environment:**
 - OS: [e.g., macOS 14.0, Windows 11, Ubuntu 22.04]
-- OxideKit Version: [e.g., 0.3.0]
+- OxidePM Version: [e.g., 0.3.0]
 - Rust Version: [e.g., 1.75.0]
 
 **Additional context**

@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for OxideKit
+about: Suggest an idea for OxidePM
 title: ''
 labels: enhancement
 assignees: ''
