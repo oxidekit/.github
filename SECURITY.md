@@ -11,7 +11,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them privately through [GitHub](https://github.com/oxidekit/oxidepm/security/advisories/new).
+Instead, please report them privately through [GitHub](https://github.com/oxidekit/oxidepm/security/advisories/new), or by email to nayiem@mono-labs.org.
 
 Please include the following information:
 

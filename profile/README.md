@@ -10,3 +10,10 @@ An open-source process manager, written in Rust. It keeps your apps running: it 
 | [oxidepm-adapters](https://github.com/oxidekit/oxidepm-adapters) | Optional adapters that add features to OxidePM |
 | [oxidepm-vscode](https://github.com/oxidekit/oxidepm-vscode) | VS Code extension |
 | [homebrew-tap](https://github.com/oxidekit/homebrew-tap) | Homebrew formula |
+
+## Contact
+
+- GitHub: [issues](https://github.com/oxidekit/oxidepm/issues)
+- Email: nayiem@mono-labs.org
+- Telegram: [@nayiem](https://t.me/nayiem)
+- X: [@NayiemW](https://x.com/NayiemW)

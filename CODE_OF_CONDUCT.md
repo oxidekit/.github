@@ -24,7 +24,7 @@ Examples of unacceptable behavior:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders at conduct@oxidekit.com.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders at nayiem@mono-labs.org.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
